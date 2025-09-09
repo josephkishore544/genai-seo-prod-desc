@@ -16,13 +16,12 @@ This project generates product descriptions using AI.
     ```
 2. Run the generator:
     ```bash
-    python main.py
+    streamlit run main.py
     ```
 
 ## Features
 
 - AI-powered product description generation
-- Easy to use CLI
 
 ## License
 
